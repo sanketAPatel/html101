@@ -1,0 +1,93 @@
+<style>
+   
+    #wrapper{ 
+                   
+                     
+                   text-align: center;
+                   border: black 1px  solid;
+                   
+               }
+               body
+               {
+                       background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%); 
+                       font-family: "Times New Roman", Times, serif;
+                       
+               }  
+               #mainbody{
+                 font-family: "Times New Roman", Times, serif;
+                       color: rgb(133, 80, 80);
+                       background-color: rgb(164, 172, 197);
+ 
+               }    
+               #Header{
+                     height: 100px;
+                     padding-top: 15px;
+                     background-color:rgb(5, 9, 75);
+                     color:yellow;
+                     font-family: "Comic Sans MS", cursive, sans-serif;
+                     font-size: 25px;
+                 }      
+ 
+               #Navigation{
+                
+                   padding-left:20px;
+                   padding-right:20px;
+                   background-color: rgb(144, 194, 241);
+                } 
+ 
+                #sidebar{
+                     font-family: "Times New Roman", Times, serif;
+                     background-color:rgb(217, 228, 235);
+      
+                  }
+               
+ 
+                
+ 
+               
+                #footer{
+                   background-color:rgb(90, 90, 90);
+                   padding-top: 5px;
+                   color: whitesmoke;
+    
+                }
+               
+               
+                .w3-bar-item{
+                    padding-top: 5px;
+ 
+                }
+ 
+              
+                div.gallery {
+                     margin: 5px;
+                     border: 1px solid #ccc;
+                     float: left;
+                     width: 180px;
+                     }
+ 
+                     div.gallery:hover {
+                     border: 1px solid #777;
+                     }
+ 
+                     div.gallery img {
+                     width: 100%;
+                     height: auto;
+                     }
+ 
+                     div.desc {
+                     padding: 15px;
+                     text-align: center;
+                     }
+ 
+                     #PropertyDesc{
+                         padding-top: 2px;
+                     }
+ 
+ 
+             
+ 
+ 
+ 
+           </style>
+ 
